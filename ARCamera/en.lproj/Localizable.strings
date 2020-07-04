@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+  ARCamera
+
+  Created by 間嶋大輔 on 2020/02/09.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+"Help" = "Help";
+"Back" = "Back";
+"Switch" = "Switch";
+"Video" = "Video";
+"Photo" = "Photo";
+"Recording" = "Recording";
+"この端末/OSではピープルオクルージョンを利用できません" = "People occlusion is not available on this device / OS.";
+"＋で背景追加\nダブルタップで録画開始/停止\n上にスワイプでスナップ\n２本指ピンチで背景拡大" = "+ Add background \n Double tap to start / stop recording \n3 finger tap to snap \nDouble-finger pinch to expand background";
+"フロントカメラはiPhoneX以降で利用可能です" = "Front camera is available on iPhoneX or later";
+"iPhoneX、iOS13以降が必要です" = "Requires iPhone, iOS13 or later";
+"保存しました!" = "saved！";
+"フォトライブラリに保存しました" = "Saved to photo library";
+"利用規約" = "Terms of service";
+"ヘルプ" = "HELP";
+"アプリケーション提供者DAISUKE MAJIMA（以下「提供者」といいます。）は、提供者が提供するスマートフォン用アプリケーション（以下「本アプリ」といいます。）の利用について、以下のとおり利用規約を定めます（以下「本規約」といいます。）。" = "The application provider DAISUKE MAJIMA (hereinafter referred to as “provider”) defines the terms of use for the smartphone application provided by the provider (hereinafter referred to as “this application”) as follows: (Hereafter referred to as the “Terms”).";
+"第１条　本規約への同意" = "Article 1 Consent to the Terms";
+"１、本アプリの利用者（以下「利用者」といいます。）は、予め本規約に同意した上で本アプリを利用するものとします。\n２、利用者が、本サービスをスマートフォンその他の情報端末にダウンロードし、本規約への同意手続を行った時点で、利用者と提供者との間で、本規約の諸規定に従った利用契約が成立するものとします。\n３、利用者が未成年者である場合には、親権者その他の法定代理人の同意を得たうえで、本サービスをご利用ください。\n４、未成年者の利用者が、法定代理人の同意がないにもかかわらず同意があると偽りまたは年齢について成年と偽って本サービスを利用した場合、その他行為能力者であることを信じさせるために詐術を用いた場合、本サービスに関する一切の法律行為を取り消すことは出来ません。\n５、本規約の同意時に未成年であった利用者が成年に達した後に本サービスを利用した場合、当該利用者は本サービスに関する一切の法律行為を追認したものとみなされます。" = "1. Users of this application (hereinafter referred to as “users”) shall use this application after agreeing to these terms in advance. \ n2. When the user downloads this service to a smartphone or other information terminal and performs the agreement procedure for this agreement, the user and the provider use it according to the provisions of this agreement. The contract shall be concluded. \ n3. If you are a minor, please use this service after obtaining the consent of a parent or other legal representative. \ n4, If a user of a minor uses the Service falsely or if he / she is an adult with regard to his age, he believes that he / she is a person who can act otherwise. If you use fraud to do so, you will not be able to revoke any legal action related to this service. \ n5. If a user who was a minor at the time of acceptance of this agreement uses this service after reaching adulthood, the user is deemed to have confirmed all legal actions related to this service.";
+"第２条 規約の変更" = "Article 2 Change of Terms";
+"１、提供者は、利用者の承諾を得ることなく、いつでも、本規約の内容を改定することができるものとし、利用者はこれを異議なく承諾するものとします。\n２、提供者は、本規約を改定するときは、その内容について提供者所定の方法（アプリプラットフォームを通したアップデート通知）により利用者に通知します。\n３、前本規約の改定の効力は、提供者が前項により通知を行った時点から生じるものとします。\n４、利用者は、本規約変更後、本サービスを利用した時点で、変更後の本利用規約に異議なく同意したものとみなされます。" = "1. The provider shall be able to revise the contents of this agreement at any time without obtaining the user's consent, and the user shall accept this without objection. \n2, When the provider revises this agreement, the provider will notify the user of the contents by the provider's prescribed method (update notification through the application platform). \n3. The effect of the amendment to the previous Terms shall come from the point of time when the provider makes a notification under the preceding paragraph. \n4. When the user uses this service after changing this agreement, it will be deemed that the user has agreed to the changed agreement without objection.";
+"第３条　個人情報等の取り扱い" = "Article 3 Handling of personal information";
+"個人情報及び利用者情報については、提供者が別途定める「プライバシーポリシー」に則り、適正に取り扱うこととします。" = "Personal information and user information will be handled appropriately in accordance with the “privacy policy” separately determined by the provider.";
+"第４条　禁止行為" = "Article 4 Prohibited acts";
+"本サービスの利用に際し、提供者は、利用者に対し、次に掲げる行為を禁止します。提供者において、利用者が禁止事項に違反したと認めた場合、利用の一時停止、その他提供者が必要と判断した措置を取ることができます。\n\n（１）提供者または第三者の知的財産権を侵害する行為\n（２）提供者または第三者の名誉・信用を毀損または不当に差別もしくは誹謗中傷する行為\n（３）提供者または第三者の財産を侵害する行為、または侵害する恐れのある行為\n（４）提供者または第三者に経済的損害を与える行為\n（５）提供者または第三者に対する脅迫的な行為\n（６）コンピューターウィルス、有害なプログラムの使用またはそれを誘発する行為\n（７）法令または条例等に違反する行為\n（８）犯罪行為、犯罪行為に結びつく行為もしくはこれを助長する行為、またはその恐れのある行為\n（９）第三者の肖像権、著作権を侵害する行為\n（１０）上記の他、提供者が不適切と判断する行為\n\n利用者が前項に列挙された行為を行い提供者が損害を被った場合、その損害の全部または一部を利用者に負担していただくことがあります。" = "When using this service, the provider prohibits the following actions for users. If the provider finds that the user has violated the prohibited matters, he / she can suspend the use or take other measures as deemed necessary by the provider. \n\n (1) Acts that violate the intellectual property rights of providers or third parties \n (2) Acts that damage or improperly discriminate or slander the honors and credibility of providers or third parties \n (3) Acts that infringe or may infringe the property of the provider or third party \n (4) Acts that cause economic damage to the provider or third party \n (5) Threatening acts against the three parties \n (6) Use of computer viruses and harmful programs \n (7) Actions that violate laws and regulations \n (8) Criminal acts and criminal acts Acts of tying or promoting this, or acts that could possibly cause it \n (9) Acts of infringing third-party portrait rights or copyrights \n (10) In addition to the above, the provider deems inappropriate Actions \n \nIf the user has taken any of the actions listed in the previous paragraph and the provider has suffered damage, User has to bear all or part of the damages to the .";
+"第５条　免責" = "Article 5 Disclaimer";
+"１、提供者は、本サービスの内容変更、中断、終了によって生じたいかなる損害についても、一切責任を負いません。\n２、提供者は、利用者の本サービスの利用環境について一切関与せず、また一切の責任を負いません。\n３、提供者は、本サービスが利用者の特定の目的に適合すること、期待する機能・商品的価値・正確性・有用性を有すること、利用者による本サービスの利用が利用者に適用のある法令または業界団体の内部規則等に適合すること、および不具合が生じないことについて、何ら保証するものではありません。\n４、提供者は、本サービスが全ての情報端末に対応していることを保証するものではなく、本サービスの利用に供する情報端末のＯＳのバージョンアップ等に伴い、本サービスの動作に不具合が生じる可能性があることにつき、利用者はあらかじめ了承するものとします。提供者は、かかる不具合が生じた場合に提供者が行うプログラムの修正等により、当該不具合が解消されることを保証するものではありません。\n５、利用者は、AppStore、GooglePlay等のサービスストアの利用規約および運用方針の変更等に伴い、本サービスの一部又は全部の利用が制限される可能性があることをあらかじめ了承するものとします。\n６、提供者は、本サービスを利用したことにより直接的または間接的に利用者に発生した損害について、一切賠償責任を負いません。\n７、提供者は、利用者その他の第三者に発生した機会逸失、業務の中断その他いかなる損害（間接損害や逸失利益を含みます）に対して、提供者が係る損害の可能性を事前に通知されていたとしても、一切の責任を負いません。\n８、第１項乃至前項の規定は、提供者に故意または重過失が存する場合又は契約書が消費者契約法上の消費者に該当する場合には適用しません。\n９、前項が適用される場合であっても、提供者は、過失（重過失を除きます。）による行為によって利用者に生じた損害のうち、特別な事情から生じた損害については、一切賠償する責任を負わないものとします。\n１０、本サービスの利用に関し提供者が損害賠償責任を負う場合、当該損害が発生した月に利用者から受領した利用額を限度として賠償責任を負うものとします。\n１１、利用者と他の利用者との間の紛争及びトラブルについて、提供者は一切責任を負わないものとします。利用者と他の利用者でトラブルになった場合でも、両者同士の責任で解決するものとし、提供者には一切の請求をしないものとします。\n１２、利用者は、本サービスの利用に関連し、他の利用者に損害を与えた場合または第三者との間に紛争を生じた場合、自己の費用と責任において、かかる損害を賠償またはかかる紛争を解決するものとし、提供者には一切の迷惑や損害を与えないものとします。１３、利用者の行為により、第三者から提供者が損害賠償等の請求をされた場合には、利用者の費用（弁護士費用）と責任で、これを解決するものとします。提供者が、当該第三者に対して、損害賠償金を支払った場合には、利用者は、提供者に対して当該損害賠償金を含む一切の費用（弁護士費用及び逸失利益を含む）を支払うものとします。\n１４、利用者が本サービスの利用に関連して提供者に損害を与えた場合、利用者の費用と責任において提供者に対して損害を賠償（訴訟費用及び弁護士費用を含む）するものとします。" = "1. The provider is not liable for any damages caused by changing, interrupting or terminating the contents of this service. \n2. The provider will not be involved in the usage environment of this service, and will not be liable.\n3. The provider does not guarantee that this service meets the specific purpose of the user, that it has the expected functions, product value, accuracy, and utility, and that the use of this service by the user is applied to the user. There is no guarantee that the product conforms to certain laws and regulations or the internal rules of industry associations, and does not cause defects. \n4. The provider does not guarantee that this service is compatible with all information terminals, and there is a problem with the operation of this service due to the OS version upgrade of the information terminal that is used for this service. The user shall acknowledge in advance that there is a possibility that this may occur. The provider does not guarantee that the problem will be resolved by the modification of the program performed by the provider when such a problem occurs. \n5. The user shall acknowledge in advance that the use of this service may be restricted in part due to changes in terms of service and operating policies of service stores such as AppStore and GooglePlay. The \n6, Provider will not be liable for any damages caused directly or indirectly to the user by using this service. \n7.The Provider is not liable for any loss of opportunity, business interruption or any other damage (including indirect damage or loss of profits) suffered by the User or other third parties. We will not be liable even if you have received the notice in advance.\n8.If the provider has intentional or gross negligence, or if the contract is subject to the Consumer Contract Law, the provisions of paragraph 1 of the preceding paragraph do not apply.\n9.Even if the preceding paragraph applies, the provider is not responsible for any damage caused to the user due to negligence (excluding gross negligence) due to special circumstances.\n10.If the Provider is liable for damages related to the use of this Service, it shall be liable for the maximum amount of compensation received from the User in the month in which the damage occurred.\n11.The Provider is not responsible for any disputes or troubles between the User and other users. Even if there is a problem between the User and another User, both parties are responsible for resolving the issue and not charging the provider at all.\n12.In the event of damage to other users or third party disputes related to the use of this service, the user shall be liable at his own expense. It shall be resolved. The user shall not bring any inconvenience or damage to the provider.\n13.If the third party claims damages to the provider due to the user's behavior, the user shall bear the costs (lawyer fees) and assume responsibility. If the provider pays the compensation to the third party, the user shall pay compensation including the provider. All expenses (including attorney fees and loss of profits).\n14.If the user damages the provider by using this service, the user shall bear the costs and responsibilities (including legal fees and legal fees) to compensate the provider for damages.";
+"第６条 広告の掲載について" = "Article 6 Advertise";
+"利用者は、本サービス上にあらゆる広告が含まれる場合があること、提供者またはその提携先があらゆる広告を掲載する場合があることを理解しこれを承諾したものとみなします。本サービス上の広告の形態や範囲は、提供者によって随時変更されます" = "You acknowledge that you understand and accept that the Service may contain any advertisements and that the Provider or its affiliates may place any advertisements. The Provider may change the form and scope of advertisements on this Service from time to time.";
+"第７条　権利譲渡の禁止" = "Article 7 Prohibition of transfer of rights";
+"１、利用者は、予め提供者の書面による承諾がない限り、本規約上の地位および本規約に基づく権利または義務の全部または一部を第三者に譲渡してはならないものとします。\n２、提供者は、本サービスの全部または一部を提供者の裁量により第三者に譲渡することができ、その場合、譲渡された権利の範囲内で利用者のアカウントを含む、本サービスに係る利用者の一切の権利が譲渡先に移転するものとします。" = "1. The User shall not assign all or part of the status and rights or obligations of this Agreement to a third party without the prior written consent of the Provider.\n2. The Provider may, at its sole discretion, transfer all or part of the Service to a third party, In this case, all user rights associated with the service (including the user account within the scope of the transfer rights) have been transferred to the transferee.";
+"第８条　分離可能性" = "Article 8 Separability";
+"本規約のいずれかの条項又はその一部が、消費者契約法その他の法令等により無効又は執行不能と判断された場合であっても、本規約の残りの規定及び一部が無効又は執行不能と判断された規定の残りの部分は、継続して完全に効力を有するものとします。" = "Even if any provision of this agreement or part of it is determined to be invalid or unenforceable by the Consumer Contract Law or other laws and regulations, the remaining provisions and part of this agreement have become invalid The rest of the provisions will continue to be fully effective.";
+"第１０条　提供者への連絡方法" = "Article 10 How to contact the provider";
+"ライブラリ" = "Library";
+"カメラ" = "Camera";
+"キャンセル" = "Cancel";
+"利用規約に同意してアプリを利用する" = "Agree to the terms of service and use the app";
+"下記利用規約に同意いただいてからご利用ください。" = "Please use it after agreeing to the following terms of service.";
+
+//Privacy
+
+"アプリケーション提供者DAISUKE MAJIMA（以下「提供者」といいます。）は、提供者が提供するスマートフォン用アプリケーション（以下「本アプリ」といいます。）のにおけるプライバシー情報の取扱いについて、以下のとおりプライバシーポリシーを定めます。" = "Application provider DAISUKE MAJIMA (hereinafter referred to as “provider”) is handling privacy information in the smartphone application provided by the provider (hereinafter referred to as “this application”) as follows: Establish a policy.";
+"取得する個人情報の種類" = "Types of personal information to be acquired";
+"１、正面のTrue Depthカメラからキャプチャされた画像とキャプチャされた画像内のユーザーの顔データ（顔の位置と形状）。\n２、アプリケーション内で利用するために利用者が選択、もしくはカメラで撮影した画像・動画。\n３、スピーチモード選択時の発話内容。\n４、広告表示のためにCookieデータやウェブビーコンを使用する場合があります。" = "1. The image captured from the front True Depth camera and the user's face data (face position and shape) in the captured image. \n2, Images / videos selected by the user for use in the application or taken by the camera. \n3, Speech content when speech mode is selected. \n4, Cookie data and web beacons may be used to display advertisements.";
+"個人情報の利用方法" = "How to use personal information";
+"１、フロントカメラモードにきりかえると、アプリはTrueDepthカメラの深度データを用いて、顔の位置と形状を取得します。顔のデータは、アプリケーション内でユーザーの顔にフェイスマスクを重ねて表情に合わせてうごかしたり、背景と前景の人物を区別して表示するために使用します。\n２、ライブラリからユーザーによって選択された画像、動画は、ARコンテンツの表面にはりつけて表示するために使用します。\n３、スピーチモードを選択すると、アプリはユーザーの発話内容を取得、認識し、文字コンテンツとして表示します。\n４、顔データ、発話データ、および画像と動画の処理は利用者の端末内で行われ、ユーザーが他のアプリでシェアする場合を除き、ネットワーク通信によるデータ、画像のアップロードは行いません。\n顔データは、AR映像を表示するためにのみアプリ内で一時的に保持、使用され、使用後はアプリから消去されます。\n顔データのアプリ内での恒久的な保存、ネットワーク通信によるアップロード、第三者への提供は行われません。\n４、ソフトウェアアップデートの通知をする場合があります。\n５、広告の表示のためcookieデータ等を使用する場合があります。\n６、法令に基づく場合、第三者の正当な利益を追求するために提供者が必要と判断した場合、個人情報を処理する場合があります。\n７、アプリケーション提供プラットフォームを通して、特定の個人と直接関連づけられることのない、アナリティクス等の統計データを取得することがあります。" = "1. When switching back to the front camera mode, the app uses the depth data of the TrueDepth camera to acquire the position and shape of the face. The face data is used in the application to overlay a face mask on the user's face and move to match the expression, or to display the background and the foreground person separately. \n2, Images and videos selected by the user from the library are used to display on the surface of AR content. \n3, if you select the speech mode, the app will acquire and recognize the user's speech content and display it as text content. 4. Processing of face data, speech data, and images and videos is performed within the user's terminal, and data and images are not uploaded via network communication unless the user shares it with other applications. \nFace data is temporarily stored and used in the app only to display AR video, and is deleted from the app after use. \nThe face data is not permanently stored in the app, uploaded via network communication, or provided to third parties. \n4, You may be notified of software updates. \n5, Cookie data may be used to display advertisements. \ n6. Under the laws and regulations, we may process personal information if the provider determines that it is necessary to pursue the legitimate interests of a third party. \n7, we may obtain analytics and other statistical data that is not directly related to a specific individual through the application providing platform.";
+"第三者への開示について" = "Disclosure to third parties";
+"提供者は、ユーザー情報のうち個人情報に関して、あらかじめユーザーの同意を得ることなく、第三者に提供しません。但し、次に定める場合にはこの限りではなく、ユーザー情報を第三者に提供することがあります。\n（１）外部サービスとの連携または、外部サービスを利用した認証にあたり、当該外部サービス運営会社にユーザー情報を提供する場合\n（２）国の機関もしくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して、提供者が協力する必要があり、かつユーザーからの同意取得が当該事務の遂行に支障を及ぼすおそれがある場合\n（３）その他法令で認められる場合" = "The provider does not provide personal information to third parties without obtaining prior user consent. However, in the following cases, this is not the case and user information may be provided to third parties. \n (1) When providing user information to an external service management company in cooperation with an external service or authentication using an external service \n (2) Received a national institution or local public entity or its consignment The provider needs to cooperate with the execution of the affairs stipulated by the law, and obtaining consent from the user may interfere with the performance of the affairs \n (3) Other laws and regulations If allowed";
+"個人情報の開示" = "Disclosure of personal information";
+"アプリケーション端末内で処理が完結するデータを除き、本人から個人情報の開示を求められた場合は、本人に対し開示します。" = "Except for data that is completely processed in the application terminal, if the person requests disclosure of personal information, it will be disclosed to the person.";
+"利用者関与の方法" = "User involvement";
+"アプリケーションによる利用者情報の利用停止を希望される場合は、アプリケーションをアンインストールしてください。\n当プライバシーポリシーの内容は、利用者の承諾を得ることなく、変更できるものとします。変更の通知はアプリケーション提供プラットフォームを通した通知の形で行い、変更後のプライバシーポリシーは、通知された時点から効力を生じるものとします。" = "If you want to stop the use of user information by the application, please uninstall the application. \nThe contents of this privacy policy can be changed without obtaining the user's consent. Notification of changes will be made in the form of notifications through the application delivery platform, and the revised privacy policy will take effect from the time of notification.";
+"お問い合わせ" = "Contact Us";
+"プライバシーポリシー" = "Privacy Policy";
+"背景を設定する" = "Set the background";
+"背景ボタンを押してiPhoneのライブラリから画像または動画を選択します。\n" = "Press the Back button to select an image or video from your iPhone library. \n";
+"背景のサイズを変える" = "Change the background size";
+"画面ピンチ（二本指で広げる／縮める）で背景を拡大縮小します。" = "Scale the background with a screen pinch (expand / shrink with two fingers).";
+"撮影モード（ビデオ／写真）を切り替える" = "Switching the shooting mode (video / photo)";
+"ビデオ／写真ボタンで切り替えます" = "Switch with video / photo button";
+"撮影する" = "Shoot";
+"ビデオ撮影モードの状態で、中央の丸い撮影ボタンを押して動画撮影開始／終了します。\n写真撮影モードの状態で、中央の丸い撮影ボタンを押して写真撮影します。" = "In the video  mode, press the center round button to start / stop video shooting. \ n In the photo mode, press the center round button to take a photo.";
+"保存する" = "Save";
+"利用規約" = "Terms of service";
+"ARコンテンツをつかう" = "Use AR content";
+"ボタンをおしてフォトライブラリからイメージまたはビデオをえらびます。\n" = "Press the button to select an image or video from your photo library. \n";
+"サイズをかえる" = "Change size";
+"ピンチ（ゆびでひろげる／ちぢめる）でサイズをかえます。" = "Pinch to change the size.";
+"いどうする" = "Move";
+"ドラッグ（おしたままうごかす）でいどうします" = "Move with dragging";
+"まわす" = "Turn";
+"にほんゆびドラッグ（おしたままうごかす）でたてとよこにまわります" = "Two fingger dragging.";
+"ARコンテンツをけす" = "Remove AR contents.";
+"ながおし（おしたままにする）でけします" = "Long press to delete.";
+"おくにいどうする" = "Move to far";
+"ダブルタップで、おくにいどうします。" = "Double tap.";
+"第１０条　提供者への連絡方法" = "Article 10 How to contact the provider";
+"2020年2月10日更新" = "Updated February 10, 2020";
+"はこ" = "Box";
+"たま" = "Sphere";
+"もじ" = "Text";
+"いた" = "Plane";
+"いぬ" = "Dog";
+"ねこ" = "Cat";
+"ひよこ" = "Chick";
+"きつね" = "Fox";
+"かわうそ" = "Otter";
+"うさぎ" = "Rabbit";
+"りす" = "Squirrel";
+"ひと" = "Person";
+"ペンギン" = "Penguin";
+"マテリアル" = "Material";
+"えらんでください" = "Choose";
+"入力してください" = "Enter some characters";
+"はりつけるかたち" = "Shapes";
+"なにか" = "Some";
+"イメージをはりつけるかたち" = "Shapes for images";
+"ミーアキャット" = "Meerkat";
+"第９条　規約の変更" = "Article 9 Change of Terms";
+"当規約の内容は、利用者の承諾を得ることなく、変更できるものとします。変更の通知はアプリケーション提供プラットフォームを通した通知の形で行い、変更後のプライバシーポリシーは、通知された時点から効力を生じるものとします。" = "The contents of these terms can be changed without the user's consent. Notification of the change will be made in the form of notification through the application providing platform, and the updated privacy policy will take effect from the time of notification.";
+"この端末/OSではバックカメラのみ利用できます" = "Back Camera Only on this device";
+"マルチビデオカメラをつかう（A12チップ以上のデバイスのみ）" = "Using a Multi Video Camera (Over 12A chip only)";
+"Multiボタンできりかわります" = "Switch with Multi Button";
+"ウインドウをけす" = "Dismiss a window";
+"ウインドウをてまえにもってくる" = "Bring a window to front";
+"ダブルタップでてまえにきます" = "With Double tapping.";
+"もじやブラウザのいろをかえる" = "Changing the color of the text or browser";
+"3ほんゆびタップで色がかわります" = "With 3 Finger Tap.";
+"はいけい" = "Background";
+"スピーチ" = "Speech";
+"ウインドウ" = "window";
+"イメージ" = "image";
+"ビデオ" = "video";
+"スピーチ（たくさん）" = "SpeechFromAbove";
+"うごくはこ" = "movingBox";
+"うごくたま" = "movingSphere";
+"うごくいた" = "movingPlane";
+
+

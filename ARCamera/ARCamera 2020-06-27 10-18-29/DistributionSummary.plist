@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARCamera.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8D578BEA22E483E7F3000A2296311383505F863A</string>
+				<key>dateExpires</key>
+				<string>2021/06/26</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MFN25KNUGJ.com.daisuke.arPic</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MFN25KNUGJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ARCamera.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2ade8a19-609c-4cef-aa32-31449dcb4abd</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.daisuke.arPic</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MFN25KNUGJ</string>
+				<key>name</key>
+				<string>Daisuke Majima</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

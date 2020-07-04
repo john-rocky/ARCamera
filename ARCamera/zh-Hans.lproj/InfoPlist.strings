@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  ARCamera
+
+  Created by 間嶋大輔 on 2020/02/09.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+NSPhotoLibraryAddUsageDescription = "请允许将图像和视频保存在照片库中.这允许该应用将合成的图像和视频保存在照片库中.";
+NSPhotoLibraryUsageDescription = "请允许访问图片库. 这允许该应用将所选视频与摄像机视频合并. 处理在终端中进行.";
+NSCameraUsageDescription = "请允许访问相机。 这允许该应用记录AR视频。 此外，当用户将相机切换到前置模式时，该应用程序会使用TrueDepth相机的深度数据来获取用户面部的位置和形状。 面部数据用于在应用程序中在用户的面部上覆盖面部蒙版，并根据面部表情移动这些蒙版，或分别显示背景和前景人物。 面部数据的处理在用户终端中执行。面部数据被临时存储在应用中，仅用于显示AR视频，使用后会从应用中删除。 面部数据不会永久存储在应用程序中，也不会通过网络通信上传或提供给第三方。";
+CFBundleDisplayName = "合成背景";
+NSMicrophoneUsageDescription = "请允许访问您设备的麦克风。 这样，应用程序就可以在视频模式下录制音频，并将其与视频一起保存到设备中。";

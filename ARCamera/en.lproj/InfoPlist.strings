@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ARCamera
+
+  Created by 間嶋大輔 on 2020/02/09.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+NSPhotoLibraryAddUsageDescription = "Please allow images and videos to be saved in the photo library. This allows the app to save the composite images and videos in the photo library.";
+NSPhotoLibraryUsageDescription = "Please allow access to the photo library. This allows the app to combine the selected video with the camera video. Processing takes place in the terminal.";
+NSCameraUsageDescription = "Please allow access to the camera. This allows the app to record AR video. Also, when user switch camera to the front mode, the app uses the depth data of the TrueDepth camera to acquire the position and shape of the user's face. The face data is used to overlay a face mask on the user's face in the application and move those masks according to the facial expression, or to display the background and foreground people separately. Processing of face data and is performed in the user's terminal.Face data is temporarily stored and used in the app only to display AR video, and is deleted from the app after use. The face data is not permanently stored in the app, uploaded via network communication, or provided to third parties.";
+NSMicrophoneUsageDescription = "Please allow access to your device's microphone. This allows the app to record audio in video mode and save it to the device along with the video.";
