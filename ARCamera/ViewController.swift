@@ -375,7 +375,8 @@ class ViewController: UIViewController, ARSCNViewDelegate,UIGestureRecognizerDel
             node.geometry = SCNPlane(width: size, height: size)
             let material = SCNMaterial()
             material.diffuse.contents = skScene
-            node.geometry?.materials = [material]
+//            node.geometry?.materials = [material]
+            node.geometry?.firstMaterial?.diffuse.contents = UIColor.blue
             node.scale = SCNVector3(1.7  * mediaAspectRatio, 1.7, 1)
             node.position = position()
             sceneView.scene.rootNode.addChildNode(node)
